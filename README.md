@@ -48,6 +48,8 @@ print("my webserver is running...")
 httpd.serve_forever()
 ~~~
 ## OUTPUT:
+
+Client Output:
 ![Untitled](https://github.com/RagulRM/webserver/assets/121609342/c08a9bee-4d21-4de6-a4dd-134fe1e86231)
 
 
